@@ -1,0 +1,7 @@
+GET http://localhost:3001/api/notes
+
+
+{
+    "content": "VS code rest client is a pretty handy tool",
+    "important" true
+}
